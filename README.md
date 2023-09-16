@@ -14,4 +14,4 @@ Create visulizations using Tableau to discover insights on Singapore HDB Resale 
 - added names and coordinates of nearest MRT and Mall to each resale observation 
 
 ## Product:
-![image](https://github.com/Javen05/Tableau1/assets/107395637/0ca219b7-0a20-418c-8a32-a1d31d554da2)
+![image](https://github.com/Javen05/Tableau1/assets/107395637/78c8c370-d57e-412e-985b-2283104e30b4)
