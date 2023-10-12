@@ -15,8 +15,10 @@ Create visulizations using Tableau to discover insights on Singapore HDB Resale 
 
 ## Product:
 #### First draft:
-![image](https://github.com/Javen05/Tableau1/assets/107395637/78c8c370-d57e-412e-985b-2283104e30b4)
+![image](https://github.com/Javen05/Tableau-Hackathon/assets/107395637/c53d044a-9fb4-4662-a4b5-cb8d62c9a7eb)
+
 
 #### Final submission:
-![image](https://github.com/Javen05/Tableau1/assets/107395637/7955333e-6292-498b-af1c-f3b1407efcad)
+![image](https://github.com/Javen05/Tableau-Hackathon/assets/107395637/0f6e8074-d935-49fe-9924-d24a1b2fd82f)
+
 
