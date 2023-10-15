@@ -2,7 +2,7 @@
 SUSS AVC2023 files
 
 ## Task:
-Create visulizations using Tableau to discover insights on Singapore HDB Resale Prices dataset.
+Create a Dashboard using Tableau to discover insights on the Singapore HDB Resale Prices dataset.
 
 ## Datasets:
 1. resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv
