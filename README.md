@@ -8,3 +8,9 @@ After going through a school-based module that taught me Tableau, I decided to e
 
 ### Showcase of Dashboard:
 https://youtu.be/hptMdk0yT0w
+
+### External datasets used from Kaggle:
+- Dataset for [HDB coordinates + Extra info](https://www.kaggle.com/datasets/denzilg/hdb-flat-prices-19902021-march)
+- Dataset for [MRT Stations](https://www.kaggle.com/datasets/cztandata/singapore-train-station-locations)
+- Dataset for [Malls](https://www.kaggle.com/datasets/karthikgangula/shopping-mall-coordinates)
+- 
