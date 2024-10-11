@@ -22,6 +22,6 @@ Create a Dashboard using Tableau to discover insights on the Singapore HDB Resal
 ![image](https://github.com/Javen05/Tableau-Hackathon/assets/107395637/0f6e8074-d935-49fe-9924-d24a1b2fd82f)
 
 ## Update:
-Decided to redo this project as a side project. This version is uploaded in improvements branch.
+Decided to redo this project as a side project. This version is uploaded in [improvements branch](https://github.com/Javen05/SUSS-AVC2023/tree/improvements).
 
 
